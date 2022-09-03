@@ -1,4 +1,3 @@
-![Top image](https://user-images.githubusercontent.com/56079798/139308504-1e69c2c3-2d92-4305-a557-6bcbd18ac8b9.png)
 ## 📝 Summary:
 
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
@@ -7,14 +6,6 @@
 - 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
 - 💬 Ask me about *Database*, *Linux*, *Python (ML)*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
-
-## 💻 I'm Currently Learning:!
-
-
-**HUTECH University of Technology**
-- Machine Learning
-- Data Analysts
-- Software technology
 
 ## 🛠 Languages & Tools:
 

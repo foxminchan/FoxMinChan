@@ -1,8 +1,6 @@
 ![Top image](https://user-images.githubusercontent.com/56079798/139308504-1e69c2c3-2d92-4305-a557-6bcbd18ac8b9.png)
 ## 📝 Summary:
 
-![](https://komarev.com/ghpvc/?username=foxminchan)
-
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
 - 🌱 I’m currently learning information technology at HUTECH University.
 - 👀 I’m interested in *Database*, *Data Warehouse*, *SQL*, *Algorithm*, ...

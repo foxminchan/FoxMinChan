@@ -16,6 +16,10 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </p>
   
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxminchan&layout=compact&theme=buefy&hide_border=true" /></a> 
+  </p>
+  
   ### **My Tools:** 
   <p align="center">
   <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></a>

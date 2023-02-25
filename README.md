@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/foxminchan/foxminchan/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="./snake.svg" alt="Snake animation" />
+</div>
 
 ## 📝 Summary:
 

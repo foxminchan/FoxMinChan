@@ -1,44 +1,67 @@
+<img src="https://raw.githubusercontent.com/foxminchan/foxminchan/blob/output/snake.svg" alt="Snake animation" />
+
 ## 📝 Summary:
 
-- 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
-- 🌱 I’m currently learning information technology at HUTECH University.
-- 👀 I’m interested in *Database*, *Data Warehouse*, *SQL*, *Algorithm*, ...
+- 👋 Hi, My name is Nguyễn Xuân Nhân (aka FoxMinChan) and I'm a BackEnd Developer, from Vietnam
+- 👀 I’m interested in *Database*, *Server side teachnology*, *Devops*...
 - 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
-- 💬 Ask me about *Database*, *Linux*, *Python (ML)*, ...
+- 💬 Ask me about *Database*, *Linux*, *.Net Core*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
-## 🛠 Languages & Tools:
+## 📈 GitHub Stats
 
-### **My Languages:**
-<p align="center">
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021285-942bd100-da15-11eb-82be-aca1c45c0a72.png" alt="cs"> </a>
-  <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021629-f553a480-da15-11eb-974b-855baa232614.png" alt="java"></a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  </p>
-   
-  ### **My Tools:** 
-  <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=foxminchan" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=foxminchan" height="150" alt="languages graph"  />
+</div>
 
- ### **📈 Github Stats:** 
- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxminchan&layout=compact&theme=buefy&hide_border=true" />
-  </p>
-  
-## ⚡ About me:
+###
 
-#### Glad to see you here!
+<img align="right" height="150" src="https://media.tenor.com/isE7nRjsGVMAAAAC/kobayashi-laugh.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" width="42" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" width="42" alt="jetbrains logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/FoxMinChan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="nguyenxuannhan407@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="FoxMinChan#6151" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/xu%C3%A2n-nh%C3%A2n-nguy%E1%BB%85n-73b23519b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="@FoxMinChan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+## 👋 Glad to see you here!
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/foxminchan/count.svg?"  />
+</div>
 
 Hello! my name is Nhan, you can call me FoxMinChan 🦊. I'm a Student living in Ho Chi Minh city. Outside Tech, I love take photos 📸, listen to music 🎼 and explore nature outdoors. If you want to talk to me, please contact me via email 📧.
-- Check out my [instagram](https://www.instagram.com/foxminchan/)
-- Write to me: [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 - See me on Hacker Rank: https://www.hackerrank.com/foxminchan
-## 📫 How to reach me:
-
-<a href="https://www.facebook.com/FoxMinChan/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="mailto:nguyenxuannhan407@gmail.com">![nguyenxuannhan407@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/xu%C3%A2n-nh%C3%A2n-nguy%E1%BB%85n-73b23519b/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

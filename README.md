@@ -48,13 +48,13 @@
   <a href="nguyenxuannhan407@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="FoxMinChan#6151" target="_blank">
+  <a href="http://discordapp.com/users/842334669767966780" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/xu%C3%A2n-nh%C3%A2n-nguy%E1%BB%85n-73b23519b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="@FoxMinChan" target="_blank">
+    <a href="https://t.me/FoxMinChan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -67,3 +67,6 @@
 
 You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. If you have questions or are interested in the technologies I use, please contact me via email.
 - See me on Hacker Rank: https://www.hackerrank.com/foxminchan
+
+## 🙏 Support:
+<p><a href="https://www.buymeacoffee.com/foxminchan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foxminchan" /></a><a href="https://ko-fi.com/foxminchan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="foxminchan" /></a></p><br><br>

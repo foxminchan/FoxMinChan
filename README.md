@@ -6,7 +6,7 @@
 
 - 👋 Hi, My name is Nguyễn Xuân Nhân (aka FoxMinChan) and I'm a BackEnd Developer, from Vietnam
 - 👀 I’m interested in *Database*, *Server side teachnology*, *Devops*...
-- 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
+- 👨‍💻 All of my projects are available [here](https://github.com/foxminchan?tab=repositories).
 - 💬 Ask me about *Database*, *Linux*, *.Net Core*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
@@ -65,5 +65,5 @@
   <img src="https://profile-counter.glitch.me/foxminchan/count.svg?"  />
 </div>
 
-Hello! my name is Nhan, you can call me FoxMinChan 🦊. I'm a Student living in Ho Chi Minh city. Outside Tech, I love take photos 📸, listen to music 🎼 and explore nature outdoors. If you want to talk to me, please contact me via email 📧.
+You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. If you have questions or are interested in the technologies I use, please contact me via email.
 - See me on Hacker Rank: https://www.hackerrank.com/foxminchan

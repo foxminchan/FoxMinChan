@@ -65,9 +65,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both"/>
+<br clear="both" />
 
 <div align="center">
   <img src="./snake.svg" alt="Snake animation" />

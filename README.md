@@ -65,12 +65,6 @@
   </a>
 </div>
 
-<br clear="both" />
-
-<div align="center">
-  <img src="./snake.svg" alt="Snake animation" />
-</div>
-
 ## 👋 Glad to see you here!
 <p align="center">Visitors</p>
 <div align="center">

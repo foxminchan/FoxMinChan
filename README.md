@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
+  <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" height="30" width="42" alt="elasticsearc logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="42" alt="kubernetes logo"  />
   <img src="https://www.svgrepo.com/show/354541/webassembly.svg" height="30" width="42" alt="wasm logo"  />
@@ -35,6 +36,7 @@
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" height="30" width="42" alt="nginx logo"  />
   <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" height="30" width="42" alt="rabbitmq logo"  />
   <img src="https://www.svgrepo.com/show/354219/prometheus.svg" height="30" width="42" alt="prometheus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" width="42" alt="grafana logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" width="42" alt="salesforce logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="gcp logo"  />

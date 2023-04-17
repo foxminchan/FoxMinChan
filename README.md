@@ -34,6 +34,7 @@
   <img src="https://www.svgrepo.com/show/354541/webassembly.svg" height="30" width="42" alt="wasm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://www.svgrepo.com/show/373924/nginx.svg" height="30" width="42" alt="nginx logo"  />
+  <img src="https://user-images.githubusercontent.com/56079798/232471249-b2f79c8f-ea98-48e8-a331-9df88ba93180.svg" height="30" width="42" alt="kafka logo"  />
   <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" height="30" width="42" alt="rabbitmq logo"  />
   <img src="https://www.svgrepo.com/show/354219/prometheus.svg" height="30" width="42" alt="prometheus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" width="42" alt="grafana logo"  />

@@ -1,10 +1,10 @@
 ## 📝 Summary:
 
-- 👋 Hi, My name is Nguyễn Xuân Nhân (aka FoxMinChan) and I'm a BackEnd Developer, from Vietnam
-- 👀 I’m interested in *Database*, *Server side teachnology*, *Devops*...
-- 👨‍💻 All of my projects are available [here](https://github.com/foxminchan?tab=repositories).
-- 💬 Ask me about *Database*, *Linux*, *.Net Core*, ...
-- 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
+- 👋 Hello, my name is Nguyễn Xuân Nhân (aka FoxMinChan), and I'm a Backend Developer from Vietnam.
+- 👀 I'm interested in topics such as **Databases**, **Server-side technology**, **DevOps**...
+- 👨‍💻 You can find all of my projects on my [GitHub page](https://github.com/foxminchan?tab=repositories).
+- 💬 Feel free to ask me anything about Databases, Linux, .NET Core, and more.
+- 📫 You can reach me at [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
 ## 📈 GitHub Stats
 
@@ -71,7 +71,14 @@
   <img src="https://profile-counter.glitch.me/foxminchan/count.svg?"  />
 </div>
 
-You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. If you have questions or are interested in the technologies I use, please contact me via email.
+I'm glad you found my GitHub profile! Please feel free to clone or fork any of my projects. If you have any suggestions or improvements, don't hesitate to raise issues or submit pull requests. If you have any questions or are interested in the technologies I use, please reach out to me via email. I'll be happy to assist you.
 
 ## 🙏 Support:
-<p><a href="https://www.buymeacoffee.com/foxminchan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foxminchan" /></a><a href="https://ko-fi.com/foxminchan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="foxminchan" /></a></p><br><br>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/foxminchan">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foxminchan" />
+  </a>
+  <a href="https://ko-fi.com/foxminchan"> 
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="foxminchan" />
+  </a>
+</div>

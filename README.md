@@ -71,7 +71,9 @@
   <img src="https://profile-counter.glitch.me/foxminchan/count.svg?"  />
 </div>
 
+<p align="justify">
 I'm glad you found my GitHub profile! Please feel free to clone or fork any of my projects. If you have any suggestions or improvements, don't hesitate to raise issues or submit pull requests. If you have any questions or are interested in the technologies I use, please reach out to me via email. I'll be happy to assist you.
+</p>
 
 ## 🙏 Support:
 <div align="center">

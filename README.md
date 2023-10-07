@@ -74,13 +74,3 @@
 <p align="justify">
 I'm glad you found my GitHub profile! Please feel free to clone or fork any of my projects. If you have any suggestions or improvements, don't hesitate to raise issues or submit pull requests. If you have any questions or are interested in the technologies I use, please reach out to me via email. I'll be happy to assist you.
 </p>
-
-## 🙏 Support:
-<div align="center">
-  <a href="https://www.buymeacoffee.com/foxminchan">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foxminchan" />
-  </a>
-  <a href="https://ko-fi.com/foxminchan"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="foxminchan" />
-  </a>
-</div>

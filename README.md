@@ -31,8 +31,8 @@ I am Nguyễn Xuân Nhân, also known as FoxMinChan, a skilled Backend Developer
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=foxminchan" height="150" alt="stats graph"  />
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=foxminchan" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api?username=foxminchan&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api/top-langs?username=foxminchan&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###

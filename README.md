@@ -1,5 +1,7 @@
 ## 👋 Greetings
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/foxminchan?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/foxminchan?style=social"> &nbsp;&nbsp; 
+
 <p align="justify">
 I am Nguyễn Xuân Nhân, also known as FoxMinChan, a skilled Backend Developer hailing from Vietnam.
 </p>

@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Nhan Nguyen from 🇻🇳
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/foxminchan?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/foxminchan?style=social"> &nbsp;&nbsp;
-
 🦊 Also known as FoxMinChan
 
 🏢 Working for [KMS Technology](https://kms-technology.com/) company

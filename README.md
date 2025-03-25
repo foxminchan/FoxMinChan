@@ -15,8 +15,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api?username=foxminchan&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
-  <img loading="lazy" src="https://github-readme-stats-beige-alpha.vercel.app/api/top-langs?username=foxminchan&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=foxminchan&show_icons=true&theme=dracula" height="150" alt="stats graph"  />
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=foxminchan&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ## 👋 Glad to see you here!

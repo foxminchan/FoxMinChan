@@ -27,6 +27,6 @@
 
 <p align="justify">
 
-Feel free to explore my projects, open issues, or submit pull requests. Connect with me on [LinkedIn](https://www.linkedin.com/in/nxnhan/) or [Dev.to](https://dev.to/foxminchan) for questions or collaboration! 🚀
+Feel free to explore my projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/nxnhan/) or [Dev.to](https://dev.to/foxminchan) for questions or collaboration! 🚀
 
 </p>
